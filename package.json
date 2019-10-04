@@ -1,0 +1,19 @@
+{
+  "name": "heavy-metal-bake-sale",
+  "version": "1.0.0",
+  "description": "Javascript Kata with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosmin-Croitoriu/Heavy-Metal-Bake-Sale.git"
+  },
+  "author": "Habs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cosmin-Croitoriu/Heavy-Metal-Bake-Sale/issues"
+  },
+  "homepage": "https://github.com/Cosmin-Croitoriu/Heavy-Metal-Bake-Sale#readme"
+}
