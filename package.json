@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cosmin-Croitoriu/Heavy-Metal-Bake-Sale/issues"
   },
-  "homepage": "https://github.com/Cosmin-Croitoriu/Heavy-Metal-Bake-Sale#readme"
+  "homepage": "https://github.com/Cosmin-Croitoriu/Heavy-Metal-Bake-Sale#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
