@@ -38,4 +38,4 @@ Looks to use Stubs or Mocks or both when solving input and output problems.
 Bonus
 Its many years later and your friends are once again looking to have a bake sale to make an album. You dust off your
 software from 1999 and refactor it to read the items, quantity and price all come from a configuration file. It must
-also now work as a Restful web service instead of writing to the console.```
+also now work as a Restful web service instead of writing to the console.   ```
